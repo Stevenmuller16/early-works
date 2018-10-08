@@ -1,0 +1,14 @@
+body { background-image:url(basiclayout2.JPG);
+	  background-attachment: fixed;
+	  background-position:  repeat ;
+	}
+
+
+h1 { font-size: 20pt;	
+     font-family: "Arial Rounded MT Bold";
+     }
+	
+h2 { font-size: 14pt;
+     font-family: "Arial";
+     }
+	
